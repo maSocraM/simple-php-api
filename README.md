@@ -1,4 +1,4 @@
-# Job test - API Simples
+# API PHP Simples
 
 ## O projeto
 Este projeto tem como meta o de construir uma "API" REST simples em PHP puro, que recebe uma requisição HTTP e responde um JSON.
